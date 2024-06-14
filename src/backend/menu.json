@@ -1,0 +1,9 @@
+[
+    { "img": "/menu/blackcoffee.jpg", "nama": "Black Coffee", "harga": 12000, "popular": true },
+    { "img": "/menu/espresso.jpg", "nama": "Espresso", "harga": 18000, "popular": false },
+    { "img": "/menu/cappucino.jpg", "nama": "Cappuccino", "harga": 15000, "popular": true },
+    { "img": "/menu/icecoffee.jpg", "nama": "Ice Coffee", "harga": 10000, "popular": true },
+    { "img": "/menu/mocha.jpg", "nama": "Mocha", "harga": 20000, "popular": false },
+    { "img": "/menu/macchiato.jpg", "nama": "Macchiato", "harga": 22000, "popular": false },
+    { "img": "/menu/V.jpg", "nama": "V60", "harga": 20000, "popular": false }
+]

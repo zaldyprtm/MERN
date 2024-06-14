@@ -1,6 +1,6 @@
 import mongoose from 'mongoose';
 
-const mongoDBURL = 'mongodb://127.0.0.1:27017/mern';
+const mongoDBURL = 'mongodb+srv://zaldyprtm:Rosenbloom31@mern.fkxjzim.mongodb.net/';
 mongoose.connect(mongoDBURL, {
   useNewUrlParser: true,
   useUnifiedTopology: true
